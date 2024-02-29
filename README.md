@@ -1,3 +1,3 @@
 # cpplesson1
-# seeout 
-# declaration
+cout
+declaration
